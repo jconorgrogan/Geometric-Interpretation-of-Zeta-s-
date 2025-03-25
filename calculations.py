@@ -21,7 +21,7 @@ def S_odd(N):
         total += term
     return total
 # Set maximum N, controlling how far you sum:
-maxN = 500000   # Increase if you want more precision (time permitting).
+maxN = 2000000   # Increase if you want more precision (time permitting).
 reportStep = 50000  # Print progress every 50k steps, for example.
 Se = 0.0
 So = 0.0
