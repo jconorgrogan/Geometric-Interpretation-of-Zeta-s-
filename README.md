@@ -1,7 +1,6 @@
 # Geometric Interpretation of ζ(s): A Recursive Curvature View
 
-This write-up explores a geometric interpretation of the Riemann zeta function ζ(s), based on comparing two infinite sums related to polygonal approximations of a unit circle. The result is a surprising, dimensionless constant — one that encodes all integer ζ(k ≥ 2) values via π-weighted curvature corrections.
-
+Stumbled upon an interesting constant I dont think has been discussed before in the literature. 
 ---
 
 ## 1. Two Infinite Sums from Circle Approximations
