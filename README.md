@@ -1,7 +1,6 @@
 # Geometric Interpretation of ζ(s): A Recursive Curvature View
 
 Stumbled upon an interesting constant I dont think has been discussed before in the literature. 
----
 
 ## 1. Two Infinite Sums from Circle Approximations
 
@@ -134,6 +133,10 @@ This value:
 - Is a **dimensionless informational constant**
 
 This framework offers a new way to interpret ζ(s) — not just as number-theoretic sums, but as **geometric encodings of recursive curvature** within the structure of space, distinguishability, and symmetry.
+
+---
+
+### Curvature Comparison Table
 
 | Quantity                           | Meaning                                               | Value     |
 |------------------------------------|--------------------------------------------------------|-----------|
