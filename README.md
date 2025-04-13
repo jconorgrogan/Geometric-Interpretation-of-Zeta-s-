@@ -135,3 +135,9 @@ This value:
 - Is a **dimensionless informational constant**
 
 This framework offers a new way to interpret ζ(s) — not just as number-theoretic sums, but as **geometric encodings of recursive curvature** within the structure of space, distinguishability, and symmetry.
+
+| Quantity                           | Meaning                                               | Value     |
+|------------------------------------|--------------------------------------------------------|-----------|
+| \( \Delta = S_{\text{even}} - S_{\text{odd}} \) | Absolute curvature residue — the irreducible leftover | ≈ 4.3562  |
+| \( R = \frac{S_{\text{odd}}}{S_{\text{even}}} \) | Fraction of curvature seen by local observer           | ≈ 0.6529  |
+
