@@ -155,3 +155,52 @@ This value:
 |------------------------------------|-------------------------------------------------------|-----------|
 | \( \Delta = S_{\text{even}} - S_{\text{odd}} \) | Error between memory systems (residue)                | ≈ 4.3562  |
 | \( R = \frac{S_{\text{odd}}}{S_{\text{even}}} \) | Fraction of error seen by local (odd-zeta) memory     | ≈ 0.6529  |
+
+##   Beyond One Δ: The Recursive Curvature Ladder
+
+So far, we’ve treated **Δ = S_even − S_odd** as a single, 2-dimensional difference — a flat comparison between what’s *visible* (even zetas) and *hidden* (odd zetas).  
+
+But in reality, there isn’t just one Δ.  
+Each Δ can itself be *differenced again* — giving rise to a recursive **Δ-ladder** that measures how the seen/unseen boundary shifts across scales.
+
+---
+
+### Δ₂ (2D): First-order residue
+- The simple geometric mismatch between global and local memory (visible vs hidden curvature).  
+- This is the **flat** difference — a scalar measure of the overall residue.  
+
+\[
+\Delta_{2\mathrm{D}} = \sum_{n\ge1}\delta_n = \sum_{k\ge2}\alpha_k\zeta(k)
+\]
+
+---
+
+### Δ₃ (3D): ΔΔ — first derivative of the difference
+- Measures **how the mismatch itself changes** with scale.  
+- Equivalent to the *slope of the residue field* when you view it in logarithmic scale space.  
+- Defined as:
+  \[
+  \Delta_{3\mathrm{D}} = -\frac{d}{ds}\Delta(s)\Big|_{s=0}
+  = \sum_{n\ge1}\delta_n\log n
+  \]
+- Interpreted as: *“where across scales the visible/hidden imbalance concentrates.”*
+
+---
+
+### Δ₄ (4D): ΔΔΔ — curvature of the mismatch
+- The **curvature of curvature** — how the slope of the mismatch bends.  
+- Formally:
+  \[
+  \Delta_{4\mathrm{D}} = \frac{d^2}{ds^2}\Delta(s)\Big|_{s=0}
+  = \sum_{n\ge1}\delta_n(\log n)^2
+  \]
+- Captures the *dynamics of scale-transfer* between visible and hidden correction layers.  
+- If Δ₂ is the amount of curvature residue, Δ₄ measures its *stability and focus.
+---
+
+### Bernoulli Connection
+Every level still carries the Bernoulli imprint:
+- Δ₂ uses \( \zeta(2m) \) → directly Bernoulli-weighted.  
+- Δ₃, Δ₄ use \( \zeta'(2m) \), \( \zeta''(2m) \) → *derivative-weighted Bernoulli combinations*.  
+So the **Bernoulli structure persists**, now modulated by how curvature residue evolves with scale.
+
