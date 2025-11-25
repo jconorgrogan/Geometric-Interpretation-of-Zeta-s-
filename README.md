@@ -1,8 +1,9 @@
 # Geometric Interpretation of ζ(s): A Recursive Curvature View
 
 Stumbled upon an interesting constant I don’t think has been discussed before in the literature.  excuse the slop:
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b7744037-697a-4830-8a63-c831d89ab5f6" />
+ 
 
+![Gemini_Generated_Image_xignbqxignbqxign](https://github.com/user-attachments/assets/f69b41c9-ff51-4935-8811-fb4ebda723f0)
 
 ---
 
