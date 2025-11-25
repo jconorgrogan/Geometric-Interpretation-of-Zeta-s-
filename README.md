@@ -3,7 +3,8 @@
 Stumbled upon an interesting constant I don’t think has been discussed before in the literature.  excuse the slop:
  
 
-![Gemini_Generated_Image_xignbqxignbqxign](https://github.com/user-attachments/assets/f69b41c9-ff51-4935-8811-fb4ebda723f0)
+ ![Gemini_Generated_Image_qw2s0jqw2s0jqw2s (1)](https://github.com/user-attachments/assets/6e7e559b-e607-4ad5-ae10-cd3c857d4c12)
+
 
 ---
 
